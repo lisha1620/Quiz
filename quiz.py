@@ -97,9 +97,8 @@ Your final score will be given at the end.
 	''')
 
 def about():
-	print('''\n==========ABOUT US==========
-This project has been created by Harsh Agarwal and his team.
-It is a basic Python Project for my 3rd Semester.''')
+	print('''\n==========ABOUT==========
+	       CREATED BY - LISHA R''')
 
 if __name__ == "__main__":
 	choice = 1
